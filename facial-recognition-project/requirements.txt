@@ -1,0 +1,13 @@
+deepface                     # Deepface is a lightweight face recognition and facial attribute analysis
+opencv-python                # OpenCV is a library of programming functions mainly aimed at real-time computer vision
+speechrecognition            # SpeechRecognition is a library for performing speech recognition, with support for several engines and APIs
+pyaudio                      # PyAudio provides Python bindings for PortAudio, the cross-platform audio I/O library
+cryptography                 # Cryptography is a package designed to expose cryptographic primitives and recipes to Python developers
+pyttsx3                      # pyttsx3 is a text-to-speech conversion library in Python
+schedule                     # Schedule is an in-process scheduler for periodic jobs
+numpy                        # NumPy is the fundamental package for scientific computing with Python
+Pillow                       # Pillow is a fork of the Python Imaging Library (PIL)
+face_recognition             # face_recognition is a simple face recognition library for Python
+tensorflow                   # TensorFlow is an open-source machine learning library for research and production
+matplotlib                   # Matplotlib is a comprehensive library for creating static, animated, and interactive visualizations in Python
+transformers                 # Transformers provides thousands of pre-trained models to perform tasks on texts such as classification, information extraction, question answering, summarization, translation, text generation, etc in 100+ languages
